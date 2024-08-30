@@ -1,2 +1,32 @@
-# Dice-Roller-App
-# Dice Roller App 🎲  A simple and interactive Android app that simulates rolling a dice. Built to practice Android development, this app features real-time dice rolling, smooth animations, and toast messages for user feedback.   Check it out and explore the code to see how it’s done!
+# Dice Roller App 🎲
+
+A simple Android app built as part of my practice in Android development. This app simulates rolling a dice and displays the result in a fun and interactive way!
+
+## 🚀 Features
+
+- **Easy-to-use Interface**: Tap the button to roll the dice.
+- **Random Number Generation**: Displays a random number between 1 and 6.
+- **Smooth Animations**: Adds a dynamic feel to the dice roll.
+- **Toast Messages**: Provides quick feedback to the user with toast messages.
+
+## 📸 Screenshots
+
+*(Include screenshots of your app here)*
+
+## 🛠️ Technologies Used
+
+- **Kotlin**: Programming language for building the app.
+- **Android Studio**: Integrated Development Environment (IDE) for Android development.
+- **XML**: For designing the app layout.
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Android Studio installed on your system.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/dice-roller-app.git
