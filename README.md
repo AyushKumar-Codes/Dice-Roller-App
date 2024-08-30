@@ -9,10 +9,6 @@ A simple Android app built as part of my practice in Android development. This a
 - **Smooth Animations**: Adds a dynamic feel to the dice roll.
 - **Toast Messages**: Provides quick feedback to the user with toast messages.
 
-## 📸 Screenshots
-
-*(Include screenshots of your app here)*
-
 ## 🛠️ Technologies Used
 
 - **Kotlin**: Programming language for building the app.
