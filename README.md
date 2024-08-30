@@ -29,4 +29,4 @@ A simple Android app built as part of my practice in Android development. This a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dice-roller-app.git
+   https://github.com/AyushKumar-Codes/Dice-Roller-App.git
